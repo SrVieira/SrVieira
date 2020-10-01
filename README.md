@@ -2,9 +2,6 @@
 
 I'm a Front-End Developer, I'm passionate about IT since 2014 and currently I'm React/React Native Developer at [Totvs](https://www.totvs.com/).
 
-React JS
-React Native
-
 Know more about me. Follow me
 
 [![Portfolio](https://img.shields.io/badge/Blog-mattew.com.br-black)](https://mattew.netlify.app/)
