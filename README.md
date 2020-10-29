@@ -1,6 +1,6 @@
 ### Hey Folks! 
 
-I'm a Front-End Developer, I'm passionate about IT since 2014 and currently I'm React/React Native Developer at [Totvs](https://www.totvs.com/).
+I'm a Front-End Developer, I'm passionate about IT since 2014 and currently I'm working with React/React Native.
 
 Know more about me. Follow me
 
