@@ -19,8 +19,7 @@ Currently I'm working with a focus on Javascript, ReactJS and React Native... Bu
 <br />
 <br />
 
-### Github Data
-✨
+### Github Data ✨
 <center>
 <table>
   <tr>
