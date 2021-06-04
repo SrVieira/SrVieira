@@ -29,3 +29,10 @@ Currently I'm working with a focus on Javascript, ReactJS and React Native... Bu
 </table>
 </center>
 
+<br />
+<br />
+
+### Social Network
+
+<a href="https://www.linkedin.com/in/matheusvieirabr/" target="_blank">![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
+<a href="https://twitter.com/matheus_v96" target="_blank">![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
